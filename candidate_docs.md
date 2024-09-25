@@ -94,5 +94,3 @@ Frank Liu
 - Pre-simulate common runtime scenarios and cache answers to frequently asked questions. This could improve efficiency but comes with the risk of outdated information or incorrect assumptions.
 
 ---
-
-This document serves as a comprehensive guide for the Verilog documentation and LLM query pipeline, highlighting current limitations and potential areas for improvement.
