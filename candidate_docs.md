@@ -30,7 +30,7 @@ Frank Liu
 2. **README Aggregation**:  
    Aggregate this documentation into a single `README.md` file to serve as the primary context for answering user queries.
 
-## ![Diagram of Pipeline](/Users/frankliu/Desktop/fa24/verilog_qa/pipeline.jpeg)
+![Diagram of Pipeline](./pipeline.jpeg)
 
 ## Pipeline:
 
