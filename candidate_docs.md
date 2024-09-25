@@ -48,18 +48,6 @@ Frank Liu
 
 ---
 
-### Dynamic Analysis Concept
-
-- **"Hard" Questions**:  
-  For complex queries involving runtime behavior or timing (e.g., cycle-accurate walkthroughs or edge case failures), the system integrates dynamic analysis through Verilog simulations.
-- **Simulation Tools**:  
-  Tools like **Verilator** run specific testbenches derived from the user query, producing waveforms and logs. These simulation outputs are used as additional context to refine the LLM’s answer.
-
-- **Feedback Loop**:  
-  This approach creates a feedback loop where both static code analysis and runtime behavior are utilized to answer queries more accurately.
-
----
-
 ## Reflection on Obstacles / Project Timeline
 
 ### 1. **Static Code Indexing (Failed Attempts)**:
